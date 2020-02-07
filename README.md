@@ -18,4 +18,12 @@ Other learning objectives:
 
 ## Definitions
 
-These we will add as we progress
+Class - a class is a blueprint for objects. Inside we define the object's characteristics and behaviours.
+With classes, you can create instances of that class.
+ 
+Instances - are the occurrence of an object of a specific class.
+
+Methods - are like a function, but can only run on a specific data type or object of it's own class.
+
+__init__ method - a method that runs every time you initialise/create an object aka: constructor method.
+
